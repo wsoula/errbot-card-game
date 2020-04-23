@@ -1,0 +1,9 @@
+[Core]
+Name = CARDS
+Module = cards
+
+[Documentation]
+Description = Simple card game that just returns cards, optimized for slack
+
+[Python]
+Version = 3
